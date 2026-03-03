@@ -45,21 +45,6 @@ This project is designed to:
 
 ---
 
-## Project Structure
-
-
-.
-├── app.py
-├── templates/
-│ ├── dashboard.html
-│ └── platform_page.html
-├── static/
-├── requirements.txt
-└── .env (not committed)
-
-
----
-
 ## Installation Guide
 
 ### 1. Clone the Repository
@@ -121,10 +106,10 @@ Dashboard Mode (Multi-Platform)
 - Click Get Insights.
 
 - View:
-  Comment-level sentiment
-  
-  Aggregated distribution
-  
-  Interactive filtering
-  
-  Pie chart visualization
+    Comment-level sentiment
+    
+    Aggregated distribution
+    
+    Interactive filtering
+    
+    Pie chart visualization
