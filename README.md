@@ -15,7 +15,7 @@ This project is designed to:
 
 ![alt text](Preview1.png)
 
-![alt text](Preview1.png)
+![alt text](Preview2.png)
 
 ## Tech Stack
 
